@@ -1,0 +1,201 @@
+A	EUR	0	AT	AUT	40	Austria
+ADN	YER	0	YE	YEM	887	Yemen (Democratic Peoples' Republic)
+AFG	AFA	0	AF	AFG	4	Afghanistan
+AIA	XCD	0	AI	AIA	660	Anguilla
+AL	ALL	0	AL	ALB	8	Albania
+AN	ANG	0	AN	ANT	530	Netherlands Antilles
+AND	EUR	0	AD	AND	20	Andorra
+ANG	AON	0	AO	AGO	24	Angola
+ASM	USD	0	AS	ASM	16	American Samoa
+ATG	XCD	0	AG	ATG	28	Antigua
+AUS	AUD	0	AU	AUS	36	Australia
+AW	AWG	0	AW	ABW	533	Aruba
+B	EUR	0	BE	BEL	56	Belgium
+BD	BDT	0	BD	BGD	50	Bangladesh
+BDS	BBD	0	BB	BRB	52	Barbados
+BF	XOF	0	BF	BFA	854	Burkina Faso
+BG	BGN	0	BG	BGR	100	Bulgaria
+BH	BZD	0	BZ	BLZ	84	Belize
+BIH	BAM	0	BA	BIH	70	Bosnia-Herzegovina
+BMU	BMD	0	BM	BMU	60	Bermuda
+BOL	BOB	0	BO	BOL	68	Bolivia
+BR	BRL	0	BR	BRA	76	Brazil
+BRN	BHD	0	BH	BHR	48	Bahrain
+BRU	BND	0	BN	BRN	96	Brunei
+BS	BSD	0	BS	BHS	44	Bahamas
+BTN	BTN	0	BT	BTN	64	Bhutan
+C	CUP	0	CU	CUB	192	Cuba
+CAL	USD	0			0	California
+CD	CDF	0	CD	COD	180	(Democratic Republic of the) Congo
+CDN	CAD	0	CA	CAN	124	Canada
+CH	CHF	0	CH	CHE	756	Switzerland
+CI	XOF	0	CI	CIV	384	(Republic of) Côte d'Ivoire
+CK	NZD	0	CK	COK	184	Cook Islands
+CL	LKR	0	LK	LKA	144	Sri Lanka
+CM	XAF	0	CM	CMR	120	Cameroon
+CO	COP	0	CO	COL	170	Columbia
+CP	CVE	0	CV	CPV	132	Cape Verde
+CR	CRC	0	CR	CRI	188	Costa Rica
+CY	CYP	0	CY	CYP	196	Cyprus
+CYM	KYD	0	KY	CYM	136	Cayman Islands
+CZ	CZK	0	CZ	CZE	203	Czech Republic
+D	EUR	0	DE	DEU	276	Germany
+DJ	DJF	0	DJ	DJI	262	Djibouti
+DK	DKK	0	DK	DNK	208	Denmark
+DOM	DOP	0	DO	DOM	214	Dominican Republic
+DY	XOF	0	BJ	BEN	204	Benin
+DZ	DZD	0	DZ	DZA	12	Algeria
+E	EUR	0	ES	ESP	724	Spain
+EAK	KES	0	KE	KEN	404	Kenya
+EAT	TZS	0	TZ	TZA	834	Tanzania
+EAU	UGS	0	UG	UGA	800	Uganda
+EC	ECS	0	EC	ECU	218	Ecuador
+EH	MAD	0	EH	ESH	732	Western Sahara
+ER	ERN	0	ER	ERI	232	Eritrea
+ES	SVC	0	SV	SLV	222	El Salvador
+ET	EGP	0	EG	EGY	818	Egypt
+ETH	ETB	0	ET	ATH	231	Ethiopia
+EW	EEK	0	EE	EST	233	Estonia
+F	EUR	0	FR	FRA	250	France
+FJI	FJD	0	FJ	FJI	242	Fidji
+FL	CHF	0	LI	LIE	438	Liechtenstein
+FLK	FKP	0	FK	FLK	238	Falkland Islands
+FM	USD	0	FM	FSM	583	Micronesia
+FR	DKK	0	FO	FRO	234	Faeroes
+GA	XAF	0	GA	GAB	266	Gabon
+GB	GBP	0	GB	GBR	826	Great Britain
+GBG		0	GG	GGY	0	Guernsey
+GBJ		0	JE	JEY	0	Jersey
+GBZ	GIP	0	GI	GIB	292	Gibraltar
+GCA	GTQ	0	GT	GTM	320	Guatemala
+GF	EUR	0	GF	GUF	254	French Guyana
+GH	GHC	0	GH	GHA	288	Ghana
+GL	DKK	0	GL	GRL	304	Greenland
+GN	GNF	0	GN	GIN	324	Guinea
+GP	EUR	0	GP	GLP	312	Guadeloupe
+GQ	XAF	0	GQ	GNQ	226	Equatorial Guinea
+GR	EUR	0	GR	GRC	300	Greece
+GU	USD	0	GU	GUM	316	Guam
+GUY	GYD	0	GY	GUY	328	Guyana
+GW	XOF	0	GW	GNB	624	Guinea-Bissau
+H	HUF	0	HU	HUN	348	Hungary
+HN	HNL	0	HN	HND	340	Honduras
+HR	HRK	0	HR	HRV	191	Croatia
+I	EUR	0	IT	ITA	380	Italy
+IL	ILS	0	IL	ISR	376	Israel
+IND	INR	0	IN	IND	356	India
+IR	IRR	0	IR	IRN	364	Iran
+IRL	EUR	0	IE	IRL	372	Ireland
+IRQ	IQD	0	IQ	IRQ	368	Iraq
+IS	ISK	0	IS	ISL	352	Iceland
+JA	JMD	0	JM	JAM	388	Jamaica
+JOR	JOD	0	JO	JOR	400	Jordan
+KI	AUD	0	KI	KIR	296	Kiribati
+KM	KMF	0	KM	COM	174	Comores
+KN	XCD	0	KN	KNA	659	Saint Kitts and Nevis
+KWT	KWD	0	KW	KWT	414	Kuwait
+L	EUR	0	LU	LUX	442	Luxemburg
+LAR	LYD	0	LY	LBY	434	Libya
+LB	LRD	0	LR	LBR	430	Liberia
+LS	LSL	0	LS	LSO	426	Lesotho
+LT	LTL	0	LT	LTU	440	Lithuania
+LV	LVL	0	LV	LVA	428	Latvia
+M	MTL	0	MT	MLT	470	Malta
+MA	MAD	0	MA	MAR	504	Morocco
+MAC	MOP	0	MO	MAC	446	Macau
+MC	FRF	0	MC	MCO	492	Monaco
+MEX	MXP	0	MX	MEX	484	Mexico
+MH	USD	0	MH	MHL	584	Marshall Islands
+MK	MKD	0	MK	MKD	807	Macedonia
+MN	MNT	0	MN	MNG	496	Mongolia
+MNE	EUR	0	ME	MNE	499	Montenegro
+MP	USD	0	MP	MNP	580	Northern Mariana Islands
+MQ	EUR	0	MQ	MTQ	474	Martinique
+MS	MUR	0	MU	MUS	480	Mauritius
+MSR	XCD	0	MS	MSR	500	Montserrat
+MV	MVR	0	MV	MDV	462	Maldives
+MW	MWK	0	MW	MWI	454	Malawi
+MZ	MZM	0	MZ	MOZ	508	Mozambique
+N	NOK	0	NO	NOR	578	Norway
+NA	NAD	0	NA	NAM	516	Namibia
+NC	XPF	0	NC	NCL	540	New Caledonia
+NIC	NIO	0	NI	NIC	558	Nicaragua
+NL	EUR	0	NL	NLD	528	Netherlands
+NPL	NPR	0	NP	NPL	524	Nepal
+NR	AUD	0	NR	NRU	520	Nauru
+NZ	NZD	0	NZ	NZL	554	New Zealand
+OM	OMR	0	OM	OMN	512	Oman
+P	EUR	0	PT	PRT	620	Portugal
+PA	PAB	0	PA	PAN	591	Panama
+PE	PEN	0	PE	PER	604	Peru
+PF	XPF	0	PF	PYF	258	French Polynesia
+PK	PKR	0	PK	PAK	586	Pakistan
+PL	PLN	0	PL	POL	616	Poland
+PNG	PGK	0	PG	PNG	598	Papua New Guinea
+PR	USD	0	PR	PRI	630	Puerto Rico
+PS		0	PS	PSE	275	Palestine
+PW	USD	0	PW	PLW	585	Palau
+PY	PYG	0	PY	PRY	600	Paraguay
+Q	QAR	0	QA	QAT	634	Qatar
+RA	ARS	0	AR	ARG	32	Argentina
+RB	BWP	0	BW	BWA	72	Botswana
+RCA	XAF	0	CF	CAF	140	Central African Republic
+RCB	XAF	0	CG	COG	178	Congo
+RCH	CLP	0	CL	CHL	152	Chile
+RE	EUR	0	RE	REU	638	Reunion
+RH	HTG	0	HT	HTI	332	Haiti
+RIM	MRO	0	MR	MRT	478	Mauritania
+RL	LBP	0	LB	LBN	422	Lebanon
+RM	MGF	0	MG	MDG	450	Madagascar
+RMM	XOF	0	ML	MLI	466	Mali
+RN	XOF	0	NE	NER	562	Niger
+ROU	UYP	0	UY	URY	858	Uruguay
+RSM	ITL	0	SM	SMR	674	San Marino
+RU	BIF	0	BI	BDI	108	Burundi
+RWA	RWF	0	RW	RWA	646	Rwanda
+S	SEK	0	SE	SWE	752	Sweden
+SA	SAR	0	SA	SAU	682	Saudi Arabia
+SCG	CSD	0	CS	SCG	891	Serbia and Montenegro
+SD	SZL	0	SD	SDN	729	Sudan
+SF	EUR	0	FI	FIN	246	Finland
+SK	SKK	0	SK	SVK	703	Slowakian Republic
+SLB	SBD	0	SB	SLB	90	Salomon Islands
+SLO	EUR	0	SI	SVN	705	Slovenia
+SME	SRG	0	SR	SUR	740	Surinam
+SN	XAF	0	SN	SEN	686	Senegal
+SP	SOS	0	SO	SOM	706	Somalia
+SRB	RSD	0	RS	SRB	688	Serbia
+SSD	SSP	0	SS	SSD	728	South Sudan
+ST	STD	0	ST	STP	678	Sao Tome and Principe
+SY	SCR	0	SC	SYC	690	Seychelles
+SYR	SYP	0	SY	SYR	760	Syria
+SZ	SZL	0	SZ	SWZ	748	Swaziland
+TD	XAF	0	TD	TCD	148	Chad
+TG	XOF	0	TG	TGO	768	Togo
+TL	USD	0	TL	TLS	626	Timor-Leste
+TN	TND	0	TN	TUN	788	Tunisia
+TON	TOP	0	TO	TON	776	Tonga
+TR	TRL	0	TR	TUR	792	Turkey
+TT	TTD	0	TT	TTO	780	Trinidad and Tobago
+TUV	AUD	0	TV	TUV	798	Tuvalu
+UAE	AED	0	AE	ARE	784	United Arab Emirates
+UM		0	UM	UMI	581	United States Minor Outlying Islands
+USA	USD	0	US	USA	840	United States of America
+V	ITL	0	VA	VAT	336	Vatican City
+VG	USD	0	VG	VGB	92	British Virgin Islands
+VI	EUR	0	VI	VIR	850	United States Virgin Islands
+VU	VUV	0	VU	VUT	548	Vanuatu
+WAG	GMD	0	GM	GMB	270	Gambia
+WAL	SLL	0	SL	SLE	694	Sierra Leone
+WAN	NGN	0	NG	NGA	562	Nigeria
+WD	XCD	0	DM	DMA	212	Dominica
+WG	XCD	0	GD	GRD	308	Grenada
+WL	XCD	0	LC	LCA	662	Santa Lucia
+WS	WST	0	WS	WSM	882	Samoa Islands
+WV	XCD	0	VC	VCT	670	St. Vincent and Grenadines
+YT	EUR	0	YT	MYT	175	Mayotte
+YU	YUN	0	YU		0	Yugoslawia
+YV	VEB	0	VE	VEN	862	Venezuela
+Z	ZMK	0	ZM	ZMB	894	Zambia
+ZA	ZAR	0	ZA	ZAF	710	South Africa
+ZW	ZWD	0	ZW	ZWE	716	Zimbabwe
