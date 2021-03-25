@@ -1,0 +1,1 @@
+COPY /B "articles.csv.000" + "articles.csv.001" + "articles.csv.002" + "articles.csv.003" + "articles.csv.004" + "articles.csv.005" + "articles.csv.006" + "articles.csv.007" + "articles.csv.008" + "articles.csv.009" + "articles.csv.010" + "articles.csv.011" + "articles.csv.012" + "articles.csv.013" + "articles.csv.014" + "articles.csv.015" "articles.csv"
