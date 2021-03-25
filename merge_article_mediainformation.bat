@@ -1,0 +1,1 @@
+COPY /B "article_mediainformation.csv.000" + "article_mediainformation.csv.001" + "article_mediainformation.csv.002" + "article_mediainformation.csv.003" + "article_mediainformation.csv.004" + "article_mediainformation.csv.005" + "article_mediainformation.csv.006" + "article_mediainformation.csv.007" "article_mediainformation.csv"

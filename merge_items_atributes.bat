@@ -1,0 +1,1 @@
+COPY /B "items_atributes.csv.000" + "items_atributes.csv.001" + "items_atributes.csv.002" + "items_atributes.csv.003" + "items_atributes.csv.004" "items_atributes.csv"
